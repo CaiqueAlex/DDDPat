@@ -1,0 +1,11 @@
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\bin\Debug\net8.0\DDDPat.Domain.deps.json
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\bin\Debug\net8.0\DDDPat.Domain.dll
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\bin\Debug\net8.0\DDDPat.Domain.pdb
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\DDDPat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\DDDPat.Domain.AssemblyInfoInputs.cache
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\DDDPat.Domain.AssemblyInfo.cs
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\DDDPat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\DDDPat.Domain.dll
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\refint\DDDPat.Domain.dll
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\DDDPat.Domain.pdb
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Domain\obj\Debug\net8.0\ref\DDDPat.Domain.dll

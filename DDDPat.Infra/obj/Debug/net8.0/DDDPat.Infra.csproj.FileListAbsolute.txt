@@ -1,0 +1,17 @@
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\bin\Debug\net8.0\DDDPat.Infra.deps.json
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\bin\Debug\net8.0\DDDPat.Infra.runtimeconfig.json
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\bin\Debug\net8.0\DDDPat.Infra.dll
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\bin\Debug\net8.0\DDDPat.Infra.pdb
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\bin\Debug\net8.0\DDDPat.Domain.dll
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\bin\Debug\net8.0\DDDPat.Domain.pdb
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.csproj.AssemblyReference.cache
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.AssemblyInfoInputs.cache
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.AssemblyInfo.cs
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.I.4F2E52ED.Up2Date
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.dll
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\refint\DDDPat.Infra.dll
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.pdb
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\DDDPat.Infra.genruntimeconfig.cache
+C:\Users\caiqu\Downloads\RedeSocialPattern-main\DDDPat\DDDPat.Infra\obj\Debug\net8.0\ref\DDDPat.Infra.dll

@@ -1,0 +1,6 @@
+@DDDPat.Presentation_HostAddress = http://localhost:5107
+
+GET {{DDDPat.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
