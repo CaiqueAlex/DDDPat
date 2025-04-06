@@ -1,0 +1,2 @@
+# DDDPat
+RedeSocialPattern
