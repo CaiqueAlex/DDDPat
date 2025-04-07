@@ -1,5 +1,4 @@
 Emerson Caique Alexandre Felizardo - 1976712
-Hugo Pacheco Medeiros - 1977089
 
 Conexão do Banco
 {
